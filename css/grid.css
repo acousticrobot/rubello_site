@@ -1,0 +1,211 @@
+/*	Design by Jonathan Gabel
+		Text and Content by Matthew Piper
+		Square Grid by  Craig Rozynski craigrozynski.com, dinosaurswithlaserz.com
+										Marco Lago marcolago.com
+*/
+
+/* CSS Reset (customised) */
+
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, em, img, small, strong {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	vertical-align: baseline;
+}
+body { display: block; }
+html { overflow-y: scroll; }
+a:hover, a:active { outline: none; }
+::-moz-selection{ background: #3b7cbf; color: #fff; text-shadow: none; }
+::selection { background: #3b7cbf; color: #fff; text-shadow: none; }
+a:link { -webkit-tap-highlight-color: #3b7cbf; }
+.ie7 img { -ms-interpolation-mode: bicubic; }
+h1, h2, h3, h4, h5, h6 { font-weight: bold; }
+
+/* Background Colors */
+
+.mauve {
+	background-color: #8A002E;
+}
+
+.lemon {
+	background-color: #FFFF00;
+}
+
+.violet {
+	background-color: #CC99FF;
+}
+
+.teal {
+	background-color: #19D1A3;
+}
+
+.sherbert {
+	background-color: #FF7519;
+}
+
+.blood-orange {
+
+	background-color: #FF3300;
+}
+
+.peach {
+	background-color: #FFB894;
+}
+
+.pink {
+	background-color: #FF94DB;
+}
+
+.red {
+	background-color: #FF0000;
+}
+
+.lt-blue {
+	background-color: #BFDFFF;
+}
+
+.lt-green {
+	background-color: #19BA13;
+}
+
+a.dk-green {
+	background-color: #008011;
+	h2 {
+		color: white;
+	}
+}
+
+.black {
+	background-color: #000000;
+}
+
+
+/* Primary Styles */
+
+
+body {
+	padding: 5%;
+	width: 95%;
+	font: 1em "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+	color: #515047;
+	background-color: #FFF;
+}
+a, a:link, a:visited, a:active {
+	float: left;
+	width: 95%;
+	padding-bottom: 50%;
+	height: auto;
+	margin-bottom: 30px;
+	text-decoration: none;
+}
+
+a h2 {
+	color: #262626;
+	line-height: 0.8;
+	letter-spacing: -0.05em;
+	font-size: 3em;
+	margin: 10px;
+	line-height: 40px;
+}
+
+img { max-width: 100%; }
+
+/* Media Queries */
+
+/* Column Control Media Queries */
+
+@media screen and (min-width:500px) {
+	body {
+		max-width: 1600px;
+		margin: 0 auto;
+		overflow: hidden;
+	}
+	a {
+		-webkit-transition: background-color .3s linear;
+		-moz-transition: -color .3s linear;
+		transition: background-color .3s linear;
+	}
+	a:hover { background-color: #008011; }
+	a.title { background-color: #f2f1db; }
+	a, a:link, a:visited, a:active {
+		position: relative;
+		top: 0;
+		overflow: hidden;
+	}
+	div, h2 { position: absolute; }
+}
+
+/* Two Column */
+
+@media screen and (min-width:500px) {
+	body {
+		width: 97%;
+		padding: 5%;
+	}
+	a, a:link, a:visited, a:hover, a:active {
+		width: 45%;
+		margin: 0 3% 20px 0;
+		padding-bottom: 47%;
+	}
+}
+
+/* Three Column */
+
+@media screen and (min-width:800px) {
+	body {
+		width: 97%;
+		padding: 3%;
+	}
+	a, a:link, a:visited, a:hover, a:active {
+		width: 31%;
+		margin: 0 2% 20px 0;
+		padding-bottom: 31%;
+	}
+}
+
+/* Four Column */
+
+@media screen and (min-width:1200px) {
+	body {
+		width: 97%;
+		padding: 2.5%;
+	}
+	a, a:link, a:visited, a:hover, a:active {
+		width: 23%;
+		margin: 20px 2% 0 0;
+		padding-bottom: 23%;
+	}
+}
+
+/* Font Size Control Media Queries */
+
+@media screen and (min-width:500px) {
+	h1, h2, h3 { font-size: 2em; }
+	p { font-size: 1em; line-height: 1.2; }
+}
+@media screen and (min-width:600px) {
+	h1, h2, h3 { font-size: 2.5em; }
+}
+@media screen and (min-width:700px) {
+	h1, h2, h3 { font-size: 3em; }
+	p { font-size: 1.25em; }
+}
+@media screen and (min-width:800px) {
+	h1, h2, h3 { font-size: 2.5em; }
+	p { font-size: 1em; }
+}
+@media screen and (min-width:1000px) {
+	h1, h2, h3 { font-size: 3.25em; }
+	p { font-size: 1.25em; }
+}
+@media screen and (min-width:1200px) {
+	p { font-size: 1em; }
+}
+@media screen and (min-width:1400px) {
+	p { font-size: 1.25em; }
+}
+@media screen and (min-width:1600px) {
+	h1, h2, h3 { font-size: 4em; }
+}
+
