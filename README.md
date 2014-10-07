@@ -42,3 +42,10 @@ Put all content into the file contents.txt, place contents for each page in the 
     cd rubello_piper
     chmod 777 compiler.rb 
     ./compiler.rb
+
+## Credits
+
+* Matthew Piper...
+* David Rubello...
+* [Sagan Ipsum](http://saganipsum.com/) was used for the sample text
+* [Fluid Squares](http://fluidsquares.com/) was used for the grid styling
