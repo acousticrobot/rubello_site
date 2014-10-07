@@ -9,8 +9,8 @@ class Section
   end
 
   def scrubbed_content(content)
-    # find links: %link[Sea of Tranquility, sea_of_tranquility]
-    content.strip.gsub(/%link\s*\[([^%]*)\s*,\s*([^%\s]*)\s*\]/,'<a href="\2.html">\1</a>')
+    # find links: %link[sea_of_tranquility,Sea of Tranquility]
+    content.strip.gsub(/%link\s*\[([^%]*),([^%]*)\s*\]/,'<a href="\1.html">\2</a>')
   end
 
   def css_class

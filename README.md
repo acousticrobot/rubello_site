@@ -12,9 +12,9 @@ Put all content into the file contents.txt, place contents for each page in the 
     A paragraph...no synatax indicator needed... will go on until the next carriage return
 
     %img example_1.jpg
-    %img-caption A caption for the image 
+    %caption A caption for the image 
 
-    A paragraph...with a link %link [ slug_to_link_to, Title or other Linking Text ] in the middle of it.
+    An in-line link %link[slug_to_link_to,Title or other Linking Text] in the middle of a paragraph.
 
 ### Will Compile to:
 
@@ -27,18 +27,18 @@ Put all content into the file contents.txt, place contents for each page in the 
     <title>Title For the Page</title>
     <link rel="stylesheet" href="css/main.css" />
     </head>
-    <body class="dk-green">
+    <body class="lt-green">
     <div class="article">
     <h1>Title For the Page</h1>
     <p>A paragraph...no synatax indicator needed... will go on until the next carriage return</p>
     <img src="img/example_1.jpg" alt="example_1"><div class=" image-caption">A caption for the image</div>
-    <p>A paragraph...with a link %link [ slug_to_link_to, Title or other Linking Text ] in the middle of it.</p>
+    <p>A paragraph...with a link <a href="slug_to_link_to.html">Title or other Linking Text</a> in the middle of it.</p>
     </div>
     </body>
     </html>
 
 ## To run compiler:
 
-    cd rubellow piper
-    chmod 777 compiler.rb
+    cd rubello_piper
+    chmod 777 compiler.rb 
     ./compiler.rb

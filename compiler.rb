@@ -1,12 +1,11 @@
 #!/usr/bin/env ruby
-require 'pry'
 
 require './lib/section.rb'
 require './lib/index.rb'
 require './lib/article.rb'
 require './lib/reader_writer.rb'
 
-TAG = /^%([^\s]+)/
+TAG = /^%([\w]+)/
 CONTENT = /^%[^\s]+(.*)/
 
   # article = Article.new("test_the_system")
@@ -39,7 +38,7 @@ contents.each do |line|
     when "img"
       #TODO handle proper image tags
       @current_article.add_content Section.new(line.match(CONTENT)[1], html: "img")
-    when "img-caption"
+    when "caption"
       @current_article.add_content Section.new(line.match(CONTENT)[1], html: "div", css_class: "image-caption")
     end
   else
