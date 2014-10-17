@@ -13,7 +13,7 @@ Put all content into the file contents.txt, place contents for each page in the 
 
     %h2 A subtitle
 
-    Another paragraph. This one has some text in *italics* and some text in *bold*
+    Another paragraph. This one has some text in *italics* and some text in **bold**
 
     %img example_1.jpg
     %caption A caption for the image 

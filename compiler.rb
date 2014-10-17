@@ -8,17 +8,6 @@ require './lib/reader_writer.rb'
 TAG = /^%([\w]+)/
 CONTENT = /^%[^\s]+(.*)/
 
-  # article = Article.new("test_the_system")
-
-  # article.title = "Test the System"
-  # article.add_content Section.new("a paragraph")
-  # article.add_content Section.new("and a second paragraph")
-  # article.add_content Section.new("and a third paragraph")
-  # article.color = "blue"
-
-
-  # puts article.to_s
-
 rw = ReaderWriter.new
 
 contents = rw.read_to_array("contents.txt")
