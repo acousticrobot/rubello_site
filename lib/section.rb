@@ -10,7 +10,15 @@ class Section
 
   def scrubbed_content(content)
     # find links: %link[sea_of_tranquility,Sea of Tranquility]
-    scrubbed = content.strip.gsub(/%link\s*\[([^%]*),([^%]*)\s*\]/,'<a href="\1.html">\2</a>')
+    scrubbed = content.strip.gsub(/%link\s*\[[^%]*,[^%]*\s*\]/) do |raw_link|
+      link_attr = raw_link.match(/%link\s*\[([^%]*),([^%]*)\s*\]/)
+      if link_attr[1].match /http:\/\//
+        link = link_attr[1]
+      else
+        link = link_attr[1] + ".html"
+      end
+      "<a href=\"#{link}\">#{link_attr[2]}</a>"
+    end
 
     # find bold: **See also ....**
     scrubbed = scrubbed.strip.gsub(/\*\*([^\*]*)\*\*/,'<strong>\1</strong>')

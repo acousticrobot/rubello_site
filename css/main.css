@@ -103,6 +103,7 @@ h1, h2, h3 {
   color: #262626;
   line-height: 0.8;
   letter-spacing: -0.05em;
+  margin: 10px 0;
 }
 h1 {
   font-size: 3em;
