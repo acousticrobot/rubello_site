@@ -37,8 +37,12 @@ class Article
     content.inject(""){|mem,c| mem += c.to_s}
   end
 
+  def links
+    "<nav><ul><li><a class=\"eight-mile\" href=\"http://www.infinitemiledetroit.com/index.html\"></a></li><li><a class=\"grid\" href=\"index.html\"></a></li></ul></nav>\n"
+  end
+
   def body
-    "<body class=\"#{color}\">\n<div class=\"article\">\n<h1>#{title}</h1>\n#{contents}</div>\n</body>"
+    "<body class=\"#{color}\">\n#{links}<section class=\"article\">\n<h1>#{title}</h1>\n#{contents}</div>\n</body>"
   end
 
   def footer

@@ -14,6 +14,10 @@ html, body, div, span, h1, h2, h3, h4, h5, h6, p, em, img, small, strong {
   vertical-align: baseline;
 }
 
+ul, li {
+  list-style-type: none;
+}
+
 body { display: block; }
 html { overflow-y: scroll; }
 h1, h2, h3, h4, h5, h6, strong { font-weight: bold; }
@@ -75,7 +79,7 @@ a:hover {
   background-color: #19BA13;
 }
 
-a.dk-green {
+.dk-green {
   background-color: #008011;
   h2 {
     color: white;
@@ -131,11 +135,46 @@ small {
 }
 img { max-width: 100%; }
 
-div.article {
-  background-color: white;
-margin: 20px auto;
-padding: 20px;
-width:80%;
-height: 100%;
-max-width: 800px;
+
+nav a {
+  display: block;
+  width: 80px;
+  background-repeat: no-repeat;
+  padding: 3px;
 }
+a.eight-mile {
+  background-image: url("../img/eight_mile_link.png");
+  height: 27px;
+}
+a.eight-mile:hover {
+  background-image: url("../img/eight_mile_link_hover.png");
+}
+
+a.grid {
+ background-image: url("../img/grid_link.png");
+ height: 53px;
+}
+a.grid:hover {
+ background-image: url("../img/grid_link_hover.png");
+}
+
+
+section.article {
+  clear: both;
+  background-color: white;
+  margin: 20px auto;
+  padding: 20px;
+  width:80%;
+  height: 100%;
+  max-width: 800px;
+}
+
+@media screen and (min-width:1125px) {
+  nav {
+    float: left;
+  }
+  section.article {
+    clear: none;
+  }
+}
+
