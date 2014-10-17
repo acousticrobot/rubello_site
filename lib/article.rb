@@ -6,7 +6,7 @@ class Article
     @slug = slug.strip
     @title = slug
     @content = []
-    @color = %w"red pink peach blood-orange sherbert lemon lt-green dk-green teal lt-blue violet mauve black".sample
+    @color = %w"red pink peach blood-orange sherbert lemon lt-green dk-green teal lt-blue violet mauve".sample
   end
 
   def add_content(section)
