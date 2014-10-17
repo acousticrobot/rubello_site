@@ -34,7 +34,12 @@ contents.each do |line|
       @current_article = Article.new(line.match(CONTENT)[1])
       @index.add_article @current_article
     when "title"
+    when "h1"
       @current_article.title = line.match(CONTENT)[1]
+    when "h2"
+      @current_article.add_content Section.new(line.match(CONTENT)[1], html: "h2")
+    when "h3"
+      @current_article.add_content Section.new(line.match(CONTENT)[1], html: "h3")
     when "img"
       #TODO handle proper image tags
       @current_article.add_content Section.new(line.match(CONTENT)[1], html: "img")

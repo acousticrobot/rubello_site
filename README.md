@@ -11,10 +11,14 @@ Put all content into the file contents.txt, place contents for each page in the 
 
     A paragraph...no synatax indicator needed... will go on until the next carriage return
 
+    %h2 A subtitle
+
+    Another paragraph. This one has some text in *italics* and some text in *bold*
+
     %img example_1.jpg
     %caption A caption for the image 
 
-    An in-line link %link[slug_to_link_to,Title or other Linking Text] in the middle of a paragraph.
+    An in-line link %link[slug_to_link_to,Title or other Linking Text] in the middle of a paragraph. And here is a link to another site: %link[http://saganipsum.com/,Sagan Ipsum]
 
 ### Will Compile to:
 
@@ -30,6 +34,7 @@ Put all content into the file contents.txt, place contents for each page in the 
     <body class="lt-green">
     <div class="article">
     <h1>Title For the Page</h1>
+    <h2>A Subtitle</h2>
     <p>A paragraph...no synatax indicator needed... will go on until the next carriage return</p>
     <img src="img/example_1.jpg" alt="example_1"><div class=" image-caption">A caption for the image</div>
     <p>A paragraph...with a link <a href="slug_to_link_to.html">Title or other Linking Text</a> in the middle of it.</p>

@@ -10,7 +10,13 @@ class Section
 
   def scrubbed_content(content)
     # find links: %link[sea_of_tranquility,Sea of Tranquility]
-    content.strip.gsub(/%link\s*\[([^%]*),([^%]*)\s*\]/,'<a href="\1.html">\2</a>')
+    scrubbed = content.strip.gsub(/%link\s*\[([^%]*),([^%]*)\s*\]/,'<a href="\1.html">\2</a>')
+
+    # find bold: **See also ....**
+    scrubbed = scrubbed.strip.gsub(/\*\*([^\*]*)\*\*/,'<strong>\1</strong>')
+
+    # find italic: *The Title of a Painting*
+    scrubbed = scrubbed.strip.gsub(/\*([^\*]*)\*/,'<cite>\1</cite>')
   end
 
   def css_class
