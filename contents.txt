@@ -6,17 +6,17 @@
 
 %h2 1420 WASHINGTON BLVD. 
 
-In 1973, Color Cubes is painted onto the far west side of the north-facing exterior brick wall of a 1906 downtown highrise designed by Albert Kahn in the %link[http://en.wikipedia.org/wiki/Chicago_school_(architecture),Chicago style](its facade is terra cotta).
+In 1973, Color Cubes is painted onto the far west side of the north-facing exterior brick wall of a 1906 downtown highrise designed by Albert Kahn in the @link[http://en.wikipedia.org/wiki/Chicago_school_(architecture),Chicago style](its facade is terra cotta).
 
 
 
-%img 1420_Washington.jpg
+%img 1420_Washington
 
 %caption 1420 Washington Blvd. in October 2014
 
 
 
-Located in the *link[http://en.wikipedia.org/wiki/Washington_Boulevard_Historic_District,Washington Blvd. Historic District], for much of the 20th century a thriving neighborhood of shops and hotels, 1420 Washington has been known variously over the years as the Palmer Building (it was commissioned by %link[http://en.wikipedia.org/wiki/Thomas_W._Palmer,Senator Thomas W. Palmer], the Gardner & Schumacher Building, the Robinson Furniture Building, and the Fellowcraft Athletic Club Building. It was home, successively and for many decades, to two prominent furniture companies: Robinson and Gardner & Schumacher. Now primarily an office building and known as the Julian C. Madison Building, after the pioneering black architect, 1420 Washington has been owned since the mid-1980s after a period of vacancy by Sharon Madison-Polk, Julian C. Madison's daughter and herself %link[http://www.madisonmadison.com/,an architect]. See %link[color_cubes,**COLOR CUBES** and %link[polk_sharon,**MADISON-POLK, SHARON**].
+Located in the @link[http://en.wikipedia.org/wiki/Washington_Boulevard_Historic_District,Washington Blvd. Historic District], for much of the 20th century a thriving neighborhood of shops and hotels, 1420 Washington has been known variously over the years as the Palmer Building (it was commissioned by @link[http://en.wikipedia.org/wiki/Thomas_W._Palmer,Senator Thomas W. Palmer], the Gardner & Schumacher Building, the Robinson Furniture Building, and the Fellowcraft Athletic Club Building. It was home, successively and for many decades, to two prominent furniture companies: Robinson and Gardner & Schumacher. Now primarily an office building and known as the Julian C. Madison Building, after the pioneering black architect, 1420 Washington has been owned since the mid-1980s after a period of vacancy by Sharon Madison-Polk, Julian C. Madison's daughter and herself @link[http://www.madisonmadison.com/,an architect]. See @link[color_cubes,**COLOR CUBES** and @link[polk_sharon,**MADISON-POLK, SHARON**].
 
 
 
@@ -36,7 +36,7 @@ The mayor of Detroit is Roman Gribbs. He serves one term and is preceded by Jero
 
 
 
-In February, a committee called The Option Process Task Force, convened by Michigan governor William Milliken in 1972 to "examine the problems of the Detroit Metropolitan area and to recommend effective solutions to solving them," presents its findings in a %link[http://www.remappingdebate.org/sites/default/files/TOP%20Force%20Report%201973.pdf,report] that concludes the following:
+In February, a committee called The Option Process Task Force, convened by Michigan governor William Milliken in 1972 to "examine the problems of the Detroit Metropolitan area and to recommend effective solutions to solving them," presents its findings in a @link[http://www.remappingdebate.org/sites/default/files/TOP%20Force%20Report%201973.pdf,report] that concludes the following:
 
 
 
@@ -44,7 +44,7 @@ In February, a committee called The Option Process Task Force, convened by Michi
 
 
 
-See %link[color_cubes,"COLOR CUBES"], %link[new_detroit_inc,**NEW DETROIT, INC.**] and %link[nixon_richard,**NIXON, RICHARD**]. 
+See @link[color_cubes,"COLOR CUBES"], @link[new_detroit_inc,**NEW DETROIT, INC.**] and @link[nixon_richard,**NIXON, RICHARD**]. 
 
 
 
@@ -60,13 +60,13 @@ In April 2014, the first 7-Eleven store to operate in Detroit in eleven years op
 
 
 
-%img 7_Eleven.jpg
+%img 7_Eleven
 
 %caption Photo by Paul Beshouri for Curbed Detroit.
 
 
 
-Before the ad's installation, *Color Cubes* is painted over. The ad remains on the wall for just a few months. Its removal reveals the four story grey-brown rectangle (the void) that has replaced the mural. See %link[impermance,**IMPERMANENCE**].
+Before the ad's installation, *Color Cubes* is painted over. The ad remains on the wall for just a few months. Its removal reveals the four story grey-brown rectangle (the void) that has replaced the mural. See @link[impermance,**IMPERMANENCE**].
 
 
 
@@ -82,7 +82,7 @@ Rubello's first choice for the location of his 1973 mural, because of the number
 
 
 
-%img Ambassador_bridge.jpg
+%img Ambassador_bridge
 
 %caption Photo by John McNicholas on Flickr.
 
@@ -96,11 +96,11 @@ Rubello's first choice for the location of his 1973 mural, because of the number
 
 %h2 *ART IN ARCHITECTURE.*
 
-In 1968, Detroit architect, painter, and Rubello patron %link[http://www.michiganmodern.org/designers/louis-g-redstone,Louis Redstone] publishes a book that that advocates for, documents, and celebrates the intentional integration of artwork into and onto buildings. 
+In 1968, Detroit architect, painter, and Rubello patron @link[http://www.michiganmodern.org/designers/louis-g-redstone,Louis Redstone] publishes a book that that advocates for, documents, and celebrates the intentional integration of artwork into and onto buildings. 
 
 
 
-%img Art_in_Architecture.jpg
+%img Art_in_Architecture
 
 
 
@@ -116,7 +116,7 @@ From its introduction:
 
 
 
-"In 1966 the %link[http://www.michiganmodern.org/designers/louis-g-redstone,Model Cities Act] was passed, and a variety of local zoning ordinances offered bonuses to builders for the inclusion of open space….Public art became a part of urban renewal programs, as it had been in centuries past, functioning an emblem of culture and a manifestation of economic wealth…."#14 See %link[living_with_art,**LIVING WITH ART**] and %link[murals,**MURALS**]. 
+"In 1966 the @link[http://www.michiganmodern.org/designers/louis-g-redstone,Model Cities Act] was passed, and a variety of local zoning ordinances offered bonuses to builders for the inclusion of open space….Public art became a part of urban renewal programs, as it had been in centuries past, functioning an emblem of culture and a manifestation of economic wealth…."#14 See @link[living_with_art,**LIVING WITH ART**] and @link[murals,**MURALS**]. 
 
 
 
@@ -152,7 +152,7 @@ Is it art intended for the general public and sited somewhere accessible to the 
 
 
 
-It is worth noting that while the public never owned *Color Cubes*, we did help fund it. See %link[national_endowment,**NATIONAL ENDOWMENT FOR THE ARTS**] and %link[polk_sharon,**MADISON-POLK, SHARON**].
+It is worth noting that while the public never owned *Color Cubes*, we did help fund it. See @link[national_endowment,**NATIONAL ENDOWMENT FOR THE ARTS**] and @link[polk_sharon,**MADISON-POLK, SHARON**].
 
 
 
@@ -168,7 +168,7 @@ Upon returning from a five-week trip to Rome to study perspective in 1978, Rubel
 
 
 
-%img Blue_Cut.jpg
+%img Blue_Cut
 
 %caption Blue Cut by David Rubello, 1978, […]
 
@@ -178,7 +178,7 @@ After making a first pass at the canvas, Rubello writes that he "broke up the at
 
 
 
-*Blue Cut* advances Rubello's concern with forms and spatial relationships evident in his earlier, more rigidly geometric paintings, like *Color Cubes*, and its implied dimensionality prefigures his later, literally three-dimensional paintings. See %link[painting_dimensional,**PAINTING, DIMENSIONAL**].
+*Blue Cut* advances Rubello's concern with forms and spatial relationships evident in his earlier, more rigidly geometric paintings, like *Color Cubes*, and its implied dimensionality prefigures his later, literally three-dimensional paintings. See @link[painting_dimensional,**PAINTING, DIMENSIONAL**].
 
 
 
@@ -194,7 +194,7 @@ In a section of the city dominated by browns, blacks, and greys, the reds, blues
 
 
 
-%img Color_Cubes_Faded.jpg
+%img Color_Cubes_Faded
 
 %caption Color Cubes in 2010. Photo by One More Spoke, http://onemorespoke.blogspot.com/ 
 
@@ -204,7 +204,7 @@ Perhaps nothing is more essential to Rubello's art than pure color (though he ha
 
 
 
-The German-born American artist %link[http://www.artnet.com/artists/josef-albers/,Josef Albers], whose work is a parent to Rubello's, writes in 1971 that color, "the most relative medium in art, has innumerable faces or appearances. To study them in their respective interactions, in their interdependence, will enrich our 'seeing,' our world -- and ourselves."#1 See %link[color_reflected,COLOR, REFLECTED].
+The German-born American artist @link[http://www.artnet.com/artists/josef-albers/,Josef Albers], whose work is a parent to Rubello's, writes in 1971 that color, "the most relative medium in art, has innumerable faces or appearances. To study them in their respective interactions, in their interdependence, will enrich our 'seeing,' our world -- and ourselves."#1 See @link[color_reflected,COLOR, REFLECTED].
 
 
 
@@ -220,17 +220,17 @@ The German-born American artist %link[http://www.artnet.com/artists/josef-albers
 
 
 
-%img Color_cubes_in_process.jpg
+%img Color_cubes_in_process
 
 %caption Photo from a slide by David Rubello, 1973
 
 
 
-Upon selecting the site for his mural and considering an appropriate design, Rubello revisits an earlier screenprint, Poetry of Space, and doubles it along its vertical axis. See %link[living_with_art, Living With Art].
+Upon selecting the site for his mural and considering an appropriate design, Rubello revisits an earlier screenprint, Poetry of Space, and doubles it along its vertical axis. See @link[living_with_art, Living With Art].
 
 
 
-%img Poetry_of_Space.jpg
+%img Poetry_of_Space
 
 %caption Poetry of Space, 1971, in an exhibition in Mt. Clemens, MI. Photographer unknown
 
@@ -244,7 +244,7 @@ Upon selecting the site for his mural and considering an appropriate design, Rub
 
 
 
-%img Color_Cubes.jpg
+%img Color_Cubes
 
 %caption Photo by David Rubello, 1973
 
@@ -254,7 +254,7 @@ Upon selecting the site for his mural and considering an appropriate design, Rub
 
 
 
-In 2009, it is found by the author in the Russell Bazaar, a local junk shop. See %link[1973,**1973**], %link[geometry_irrational,**GEOMETRY, IRRATIONAL**], %link[homage,**HOMAGE**], and%link[living_with_art,**LIVING WITH ART**].
+In 2009, it is found by the author in the Russell Bazaar, a local junk shop. See @link[1973,**1973**], @link[geometry_irrational,**GEOMETRY, IRRATIONAL**], @link[homage,**HOMAGE**], and@link[living_with_art,**LIVING WITH ART**].
 
 
 
@@ -270,13 +270,13 @@ A common concern in Rubello's three-dimensional paintings and sculptures: by pla
 
 
 
-%img Illuminated_Column.jpg
+%img Illuminated_Column
 
 %caption Illuminated Column, 1973, acrylic on wood
 
 
 
-"It glows," Rubello says about this device. "But I call it a fugitive thing because you either see it or you don't. It all has to do with the painting's relationship to light." See %link[painting_dimensional,**PAINTING, DIMENSIONAL**].
+"It glows," Rubello says about this device. "But I call it a fugitive thing because you either see it or you don't. It all has to do with the painting's relationship to light." See @link[painting_dimensional,**PAINTING, DIMENSIONAL**].
 
 
 
@@ -288,11 +288,11 @@ A common concern in Rubello's three-dimensional paintings and sculptures: by pla
 
 %h2 DETROIT SOCIETY OF ARTS AND CRAFTS.
 
-Inspired by the English %link[http://en.wikipedia.org/wiki/Arts_and_Crafts_movement, Arts and Crafts movement] of the late 19th and early 20th centuries, local civic leaders found the Detroit Society of Arts and Crafts 1906 in order to promote the ideals of beauty and craftsmanship in an increasingly industrial age. The society's school, offering a formal, four-year education in art, opens in its Brush Park headquarters in 1926.#2
+Inspired by the English @link[http://en.wikipedia.org/wiki/Arts_and_Crafts_movement, Arts and Crafts movement] of the late 19th and early 20th centuries, local civic leaders found the Detroit Society of Arts and Crafts 1906 in order to promote the ideals of beauty and craftsmanship in an increasingly industrial age. The society's school, offering a formal, four-year education in art, opens in its Brush Park headquarters in 1926.#2
 
 
 
-%img Arts_and_Crafts.jpg
+%img Arts_and_Crafts
 
 %caption The Arts and Crafts Building. Photo by Allen Stross in 1968 edition of The Buildings of Detroit by W. Hawkins Ferry. Photo reproduction by Scott Weir on Flickr. 
 
@@ -302,13 +302,13 @@ On weekends in the early 1950s, the teenage Rubello takes the streetcar from his
 
 
 
-%img Self_Portrait.jpg
+%img Self_Portrait
 
 % caption Self-portrait by David Rubello, 1954 acrylic on canvas. His first painting as a full-time student at Arts & Crafts.
 
  
 
-In 1958, the Detroit Society of Arts and Crafts moves into a new building, designed by Minoru Yamasaki, in the city's cultural center. By 1975, it has expanded and become the Center for Creative Studies -- known today as the %link[http://www.collegeforcreativestudies.edu/,College for Creative Studies], a leading institution of art and design and education. Its former Brush Park home, vacant and %link[http://www.collegeforcreativestudies.edu/,in serious disrepair], is demolished in 2006.
+In 1958, the Detroit Society of Arts and Crafts moves into a new building, designed by Minoru Yamasaki, in the city's cultural center. By 1975, it has expanded and become the Center for Creative Studies -- known today as the @link[http://www.collegeforcreativestudies.edu/,College for Creative Studies], a leading institution of art and design and education. Its former Brush Park home, vacant and @link[http://www.collegeforcreativestudies.edu/,in serious disrepair], is demolished in 2006.
 
 
 
@@ -328,13 +328,13 @@ Diane Kirkpatrick, professor of art at the University of Michigan in 1973, write
 
 
 
-%img Dimensional.jpg
+%img Dimensional
 
 %caption Dimensional, 197?, acrylic on canvas
 
 
 
-See %link[perception,**PERCEPTION**].
+See @link[perception,**PERCEPTION**].
 
 
 
@@ -346,7 +346,7 @@ See %link[perception,**PERCEPTION**].
 
 %h2 EMPIRE BUILDING.
 
-Another terra cotta building, a high rise notable for its elaborate cornice, the %link[http://www.collegeforcreativestudies.edu/,Empire] once stood two parcels north of 1420 Washington, at Clifford. It was designed by John Scott and built in 1908. 
+Another terra cotta building, a high rise notable for its elaborate cornice, the @link[http://www.collegeforcreativestudies.edu/,Empire] once stood two parcels north of 1420 Washington, at Clifford. It was designed by John Scott and built in 1908. 
 
 
 
@@ -354,7 +354,7 @@ One reason that Rubello selects 1420 Washington for the site of Color Cubes is b
 
 
 
-%img Empire_Building.jpg
+%img Empire_Building
 
 %caption Washing Blvd. in about 1940, photographer unknown. Courtesy of the Detroit News.
 
@@ -376,7 +376,7 @@ In 1971, this sprawling downtown office building, designed by Albert Kahn and Wi
 
 
 
-%img First_National_Building.jpg
+%img First_National_Building
 
 %caption The First National is in the rear.
 
@@ -390,7 +390,7 @@ Later that day, there is an accident and one of the painters falls 14 stories to
 
 
 
-See %link[demar_and_lauri,**MESSAGE TO DEMAR AND LAURI**] and %link[murals,**MURALS**]. 
+See @link[demar_and_lauri,**MESSAGE TO DEMAR AND LAURI**] and @link[murals,**MURALS**]. 
 
 
 
@@ -402,11 +402,11 @@ See %link[demar_and_lauri,**MESSAGE TO DEMAR AND LAURI**] and %link[murals,**MUR
 
 %h2 GEOMETRY, IRRATIONAL.
 
-What is the relationship of David Rubello's work to geometry? *Color Cubes*, like many of his paintings from the 1960s and '70s, can be categorized as %link[http://www.visual-arts-cork.com/history-of-art/hard-edge-painting.htm,"hard-edge"]," the generic child of %link[http://www.metmuseum.org/toah/hd/geab/hd_geab.htm,geometric abstraction] and %link[http://www.moca.org/pc/viewArtTerm.php?id=8,color field painting]: neat, depersonalized, anti-representational, unpainterly, concerned primarily with the interplay between clearly defined, pure color geometric forms.
+What is the relationship of David Rubello's work to geometry? *Color Cubes*, like many of his paintings from the 1960s and '70s, can be categorized as @link[http://www.visual-arts-cork.com/history-of-art/hard-edge-painting.htm,"hard-edge"]," the generic child of @link[http://www.metmuseum.org/toah/hd/geab/hd_geab.htm,geometric abstraction] and @link[http://www.moca.org/pc/viewArtTerm.php?id=8,color field painting]: neat, depersonalized, anti-representational, unpainterly, concerned primarily with the interplay between clearly defined, pure color geometric forms.
 
 
 
-%img Room.jpg
+%img Room
 
 %caption Room, 197?, acrylic on canvas
 
@@ -424,7 +424,7 @@ But Rubello's geometry is an "irrational geometry," to borrow a phrase from Wern
 
 
 
-%img Unknown_Title_1.jpg
+%img Unknown_Title_1
 
 %caption Photograph of a photograph by David Rubello. Original work: Unknown title, 1973, acrylic on canvas
 
@@ -438,13 +438,13 @@ Robert A. Yassin, assistant director of the University of Michigan Museum of Art
 
 
 
-%img Perseus.jpg
+%img Perseus
 
 %caption Perseus, 197?, varnished acrylic on canvas
 
 
 
-Rubello is primarily a figurative painter until he is introduced to geometric abstraction by Richard Mortensen, his teacher at the Royal Danish Academy of Fine Arts from 1963 to 1966. See %link[mortensen_richard,**MORTENSEN, RICHARD**].
+Rubello is primarily a figurative painter until he is introduced to geometric abstraction by Richard Mortensen, his teacher at the Royal Danish Academy of Fine Arts from 1963 to 1966. See @link[mortensen_richard,**MORTENSEN, RICHARD**].
 
 
 
@@ -460,11 +460,11 @@ Upon learning of the destruction of *Color Cubes*, Detroiter, math teacher, and 
 
 
 
-%img Homage.jpg
+%img Homage
 
 
 
-"It makes me want to cry that it's gone….I lived downtown four years ago. I would see it a lot on bike rides and it was one of the things I always showed my friends who came to visit. I missed it when it was painted over and I wanted to be able to see it, so I painted my own. I tried to get the colors right but it was challenging -- I had to change it up a bit." See %link[color_cubes,**COLOR CUBES**] 
+"It makes me want to cry that it's gone….I lived downtown four years ago. I would see it a lot on bike rides and it was one of the things I always showed my friends who came to visit. I missed it when it was painted over and I wanted to be able to see it, so I painted my own. I tried to get the colors right but it was challenging -- I had to change it up a bit." See @link[color_cubes,**COLOR CUBES**] 
 
 
 
@@ -480,7 +480,7 @@ Rubello, on the erasure of *Color Cubes*: "I'm sorry it's gone. Sometimes you th
 
 
 
-%img Void.jpg
+%img Void
 
 
 
@@ -492,7 +492,7 @@ Rubello, on the erasure of *Color Cubes*: "I'm sorry it's gone. Sometimes you th
 
 %h2 INTERACTION.
 
-"My desire," Rubello says, "has always been to include the viewer, because painting as it stands is always something that you're just looking at. And I thought, wouldn't it be interesting if, instead of just looking at it, you become part of it? I've made a number of things that require -- well, that include the opportunity for such a thing." See %link[movables,**MOVABLES**] and %link[perception,**PERCEPTION**].
+"My desire," Rubello says, "has always been to include the viewer, because painting as it stands is always something that you're just looking at. And I thought, wouldn't it be interesting if, instead of just looking at it, you become part of it? I've made a number of things that require -- well, that include the opportunity for such a thing." See @link[movables,**MOVABLES**] and @link[perception,**PERCEPTION**].
 
 
 
@@ -508,7 +508,7 @@ In an attempt at neighborhood revitalization through public art making, the Arts
 
 
 
-%img Arts_the_Thing.jpg
+%img Arts_the_Thing
 
 %caption From the Detroit Free Press, August 14, 1974
 
@@ -547,7 +547,7 @@ It results in the creation of the following, still extant works (all photos take
 Steve Foust's (quite worn and faded, but still perceptible) *Taj Perfume Company
 Mural*, 1314 Gratiot, Eastern Market 
 
-%img Steve_Foust.jpg
+%img Steve_Foust
 
 David Tammany's (well-preserved) decoration of the back of the Skillman Building,
 100 E. Palmer, Wayne State U 
@@ -557,24 +557,24 @@ David Tammany's (well-preserved) decoration of the back of the Skillman Building
 Stan Dolega's (worn and compromised) untitled sculpture on the south end of Belle
 Isle 
 
-%img Stan_Dolega.jpg
+%img Stan_Dolega
 
 Michael Hall's (fairly well-preserved) sculpture *Steady* in Clark Park, SW Detroit
 
-%img Michael_Hall.jpg
+%img Michael_Hall
  
 John Piet's (well-preserved) sculpture *Everything is Anything* in Pingree Park, east 
 side
 
-%img John_Piet.jpg
+%img John_Piet
  
 Hanna Steibl's (well-preserved) *Hard Edge, Soft Edge* at Randolph and Centre in 
 Harmonie Park, downtown 
 
-%img Hanna_Steibl.jpg
+%img Hanna_Steibl
 
 
-In addition to *Color Cubes*, the following Living With Art works have been lost: an untitled 1972 mural by Roger Mayer in Harmonie Park, Lester Johnson's 1973 mural *Continuum* on an Edison substation at Grand River and Scotten, two 1972 murals on Wyoming in northwest Detroit by Charles McGree and Ed Morais, respectively, and several 1973 murals inside the demolished Detroit General Hospital by Allen Bryant and Allie McGhee.#3 #5 See %link[color_cubes,**COLOR CUBES**], %link[mcgee_charles,**MCGEE, CHARLES**], and%link[murals,**MURALS**]. 
+In addition to *Color Cubes*, the following Living With Art works have been lost: an untitled 1972 mural by Roger Mayer in Harmonie Park, Lester Johnson's 1973 mural *Continuum* on an Edison substation at Grand River and Scotten, two 1972 murals on Wyoming in northwest Detroit by Charles McGree and Ed Morais, respectively, and several 1973 murals inside the demolished Detroit General Hospital by Allen Bryant and Allie McGhee.#3 #5 See @link[color_cubes,**COLOR CUBES**], @link[mcgee_charles,**MCGEE, CHARLES**], and@link[murals,**MURALS**]. 
 
 
 
@@ -608,15 +608,15 @@ Taking the long view of the neighborhood, she considers the erasure of the Rubel
 
 %h2 MCGEE, CHARLES.
 
-A friend of Rubello's since Rubello was 16, the Detroit artist and %link[http://www.google.com/url?q=http%3A%2F%2Fkresge.org%2Fnews%2Fcharles-mcgee-named-first-kresge-eminent-artist&sa=D&sntz=1&usg=AFQjCNH5dxtOUNEYislAj66zZEMvWb6WXA,2008 Kresge eminent artist], born 1919, co-directed New Detroit Inc.'s Living With Art Program in the early 1970s. His lost, 20' x 25' mural, painted on the side of a hair salon at Wyoming and Curtis in 1972, was the first work created under the auspices of  Living With Art.#5
+A friend of Rubello's since Rubello was 16, the Detroit artist and @link[http://www.google.com/url?q=http%3A%2F%2Fkresge.org%2Fnews%2Fcharles-mcgee-named-first-kresge-eminent-artist&sa=D&sntz=1&usg=AFQjCNH5dxtOUNEYislAj66zZEMvWb6WXA,2008 Kresge eminent artist], born 1919, co-directed New Detroit Inc.'s Living With Art Program in the early 1970s. His lost, 20' x 25' mural, painted on the side of a hair salon at Wyoming and Curtis in 1972, was the first work created under the auspices of  Living With Art.#5
 
 
 
-His untitled downtown geometric mural (commissioned by New Detroit, Inc. in 1974 for an international energy conference), though compromised and fading, remains. See %link[living_with_art,**LIVING WITH ART**] and %link[murals,**MURALS**].
+His untitled downtown geometric mural (commissioned by New Detroit, Inc. in 1974 for an international energy conference), though compromised and fading, remains. See @link[living_with_art,**LIVING WITH ART**] and @link[murals,**MURALS**].
 
 
 
-%img Charles_McGee.jpg
+%img Charles_McGee
 
 
 
@@ -632,7 +632,7 @@ The first large-scale geometric mural to decorate a building in downtown Detroit
 
 
 
-%img Message_to_Demar_and_Lauri.jpg
+%img Message_to_Demar_and_Lauri
 
 %caption Photo 1980 by Loretta Markell, found on Pinterest
 
@@ -642,11 +642,11 @@ Covering 20,000 square feet, it is referred to in 1971 by Frank Kolbert, a membe
 
 
 
-Sandblasted off the wall of the First National sometime between 1980 and the mid-1990s. A faint impression of its outline remains. See %link[first_national,**FIRST NATIONAL BUILDING**] and %link[murals,**MURALS**].
+Sandblasted off the wall of the First National sometime between 1980 and the mid-1990s. A faint impression of its outline remains. See @link[first_national,**FIRST NATIONAL BUILDING**] and @link[murals,**MURALS**].
 
 
 
-%img Demar_and_Lauri_remnant.jpg
+%img Demar_and_Lauri_remnant
 
 
 
@@ -668,7 +668,7 @@ Danish painter, 1910-1993, known for geometric abstraction. Rubello's teacher at
 
 
 
-Rubello and two fellow artists appeared on a Danish TV program while they were in school, co-creating a messy, black-and-white %link[http://en.wikipedia.org/wiki/Action_painting, action painting. The next day, Rubello remembers that Mortensen, an "expansive, emotional guy," was irate. "That just wasn't the way he wanted us to paint." See %link[geometry_irrational,**GEOMETRY, IRRATIONAL**].
+Rubello and two fellow artists appeared on a Danish TV program while they were in school, co-creating a messy, black-and-white @link[http://en.wikipedia.org/wiki/Action_painting, action painting. The next day, Rubello remembers that Mortensen, an "expansive, emotional guy," was irate. "That just wasn't the way he wanted us to paint." See @link[geometry_irrational,**GEOMETRY, IRRATIONAL**].
 
 
 
@@ -684,7 +684,7 @@ Three-dimensional paintings and sculptures by Rubello that incorporate one or mo
 
 
 
-"You can change this," Rubello explains as he demonstrates one. "It's a different painting each time. You can decide what you want to look at each day." See %link[interaction,**INTERACTION**].
+"You can change this," Rubello explains as he demonstrates one. "It's a different painting each time. You can decide what you want to look at each day." See @link[interaction,**INTERACTION**].
 
 
 
@@ -704,7 +704,7 @@ Here is a video excerpt showing some of Rubello's movable paintings in action:
 
 %h2 MURALS.
 
-There are walls in Detroit in 2014 that are crowded with murals. Mural making has become an accepted strategy to enliven urban spaces, whether neglected, stable, or in the process of revitalization. It is practiced by both fine and street artists, in a kaleidoscopic variety of styles. The works are often created at the request of community groups, sometimes with community members themselves %link[http://www.google.com/url?q=http%3A%2F%2Fwww.knightarts.org%2Fcommunity%2Fdetroit%2Fmaking-brixels-with-cedric-tai&sa=D&sntz=1&usg=AFQjCNH7aJG_AKbVZnTTqyt2cSGJ0oRrfg,taking an active role] in their creation. They function as decoration, revitalization, declaration of life. As signs that mark distinct neighborhood identities. As community building opportunities. Detroit has truly become a "city of art," and the art, like the city, is sprawling, messy, complex, and multilayered.  
+There are walls in Detroit in 2014 that are crowded with murals. Mural making has become an accepted strategy to enliven urban spaces, whether neglected, stable, or in the process of revitalization. It is practiced by both fine and street artists, in a kaleidoscopic variety of styles. The works are often created at the request of community groups, sometimes with community members themselves @link[http://www.google.com/url?q=http%3A%2F%2Fwww.knightarts.org%2Fcommunity%2Fdetroit%2Fmaking-brixels-with-cedric-tai&sa=D&sntz=1&usg=AFQjCNH7aJG_AKbVZnTTqyt2cSGJ0oRrfg,taking an active role] in their creation. They function as decoration, revitalization, declaration of life. As signs that mark distinct neighborhood identities. As community building opportunities. Detroit has truly become a "city of art," and the art, like the city, is sprawling, messy, complex, and multilayered.  
 
 
 
@@ -756,7 +756,7 @@ The early '70s murals, funded by development organizations with big dreams and d
 
 
 
-More recent murals, often painted at street level and created in a time when the distinction between fine and street art has worn away, do not seem to reach as high as works like *Color Cubes* and *Message for Demar and Lauri* did. But perhaps they reflect, as Patricia C. Phillips puts it, "a more passionate commitment to the temporary" that is better suited to the inconstant urban environment. They do not seem to suffer from the misconception, in other words, that they are meant to last. See %link[art_in_architecture,**ART IN ARCHITECTURE**],%link[color_cubes,**COLOR CUBES**], %link[living_with_art,**LIVING WITH ART**], %link[demar_and_lauri,**MESSAGE TO DEMAR AND LAURI**]
+More recent murals, often painted at street level and created in a time when the distinction between fine and street art has worn away, do not seem to reach as high as works like *Color Cubes* and *Message for Demar and Lauri* did. But perhaps they reflect, as Patricia C. Phillips puts it, "a more passionate commitment to the temporary" that is better suited to the inconstant urban environment. They do not seem to suffer from the misconception, in other words, that they are meant to last. See @link[art_in_architecture,**ART IN ARCHITECTURE**],@link[color_cubes,**COLOR CUBES**], @link[living_with_art,**LIVING WITH ART**], @link[demar_and_lauri,**MESSAGE TO DEMAR AND LAURI**]
 
 
 
@@ -768,17 +768,17 @@ More recent murals, often painted at street level and created in a time when the
 
 %h2 NATIONAL ENDOWMENT FOR THE ARTS.  
 
-In 1965, the %link[http://arts.gov/,NEA] is founded during the Johnson administration, "marking the first time in American history that substantial federal tax-based funds were allocated for arts spending at the state and local levels," according to art historian Cher Knight.#6 One of its first efforts is a (now-defunct) program called Art in Public Places, which provides matching federal funds to support community-led public art initiatives. The first work created in the US using Art in Public Places funding is Alexander Calder's monumental sculpture *La Grande Vitesse* in Grand Rapids, MI.
+In 1965, the @link[http://arts.gov/,NEA] is founded during the Johnson administration, "marking the first time in American history that substantial federal tax-based funds were allocated for arts spending at the state and local levels," according to art historian Cher Knight.#6 One of its first efforts is a (now-defunct) program called Art in Public Places, which provides matching federal funds to support community-led public art initiatives. The first work created in the US using Art in Public Places funding is Alexander Calder's monumental sculpture *La Grande Vitesse* in Grand Rapids, MI.
 
 
 
-%img La_Grande_Vitesse.jpg
+%img La_Grande_Vitesse
 
 %caption La Grande Vitesse. Photo by Brian Burch on Flickr, 2002.
 
 
 
-In 1972, New Detroit Inc. successfully applies for $10,000 in Art in Public Places money to help fund the second year of the Living With Art program, which includes the commission of *Color Cubes*.#5 See %link[art_public,**ART, PUBLIC**] and %link[living_with_art,**LIVING WITH ART**].
+In 1972, New Detroit Inc. successfully applies for $10,000 in Art in Public Places money to help fund the second year of the Living With Art program, which includes the commission of *Color Cubes*.#5 See @link[art_public,**ART, PUBLIC**] and @link[living_with_art,**LIVING WITH ART**].
 
 
 
@@ -790,11 +790,11 @@ In 1972, New Detroit Inc. successfully applies for $10,000 in Art in Public Plac
 
 %h2 NEW DETROIT, INC.
 
-In direct response to the %link[http://www.google.com/url?q=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2F1967_Detroit_riot&sa=D&sntz=1&usg=AFQjCNEyMkjRYca1203OlakURLKGjlbkaw,violent Detroit rebellion of 1967], Michigan governor George Romney, Detroit mayor Jerome Cavanagh, and department store president Joseph L. Hudson, Jr. found a coalition of business, civic, labor, and community leaders originally called the New Detroit Committee in an attempt to identify and ameliorate the causes of the urban crisis. 
+In direct response to the @link[http://www.google.com/url?q=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2F1967_Detroit_riot&sa=D&sntz=1&usg=AFQjCNEyMkjRYca1203OlakURLKGjlbkaw,violent Detroit rebellion of 1967], Michigan governor George Romney, Detroit mayor Jerome Cavanagh, and department store president Joseph L. Hudson, Jr. found a coalition of business, civic, labor, and community leaders originally called the New Detroit Committee in an attempt to identify and ameliorate the causes of the urban crisis. 
 
 
 
-%img rebellion.jpg
+%img rebellion
 
 %caption Photo by Lee Balterman, 1967. Courtesy Time & Life Pictures/Getty Image.
 
@@ -804,7 +804,7 @@ In direct response to the %link[http://www.google.com/url?q=http%3A%2F%2Fen.wiki
 
 
 
-New Detroit remains an active force in the city to this day, its mission to improve race relations and advance social and economic equity pursued through a variety of %link[http://www.google.com/url?q=http%3A%2F%2Fwww.newdetroit.org%2Fcms%2Findex.php%2Fprograms-events&sa=D&sntz=1&usg=AFQjCNG4GsUAaW55VS-mrKRDzpJZusuwRw,programs and events].
+New Detroit remains an active force in the city to this day, its mission to improve race relations and advance social and economic equity pursued through a variety of @link[http://www.google.com/url?q=http%3A%2F%2Fwww.newdetroit.org%2Fcms%2Findex.php%2Fprograms-events&sa=D&sntz=1&usg=AFQjCNG4GsUAaW55VS-mrKRDzpJZusuwRw,programs and events].
 
 
 
@@ -836,7 +836,7 @@ It also believes that the arts - drama, painting, music - provide one of the imp
 
 
 
-See %link[1973,**1973**] and %link[living_with_art,**LIVING WITH ART**].
+See @link[1973,**1973**] and @link[living_with_art,**LIVING WITH ART**].
 
 
 
@@ -868,11 +868,11 @@ But by themselves those advances can never be enough. The engineers and the scie
 
 
 
-In his 2010 blog post %link[http://onemorespoke.blogspot.com/2010/06/detroits-geometric-murals-of-seventies.html,"Detroit's Geometric Murals of the Seventies"] Detroit blogger %link[http://onemorespoke.blogspot.com/,One More Spoke] writes of the 37th president:
+In his 2010 blog post @link[http://onemorespoke.blogspot.com/2010/06/detroits-geometric-murals-of-seventies.html,"Detroit's Geometric Murals of the Seventies"] Detroit blogger @link[http://onemorespoke.blogspot.com/,One More Spoke] writes of the 37th president:
 
 
 
-"Richard Nixon can usually be blamed for most things. Geometric murals of the 1970s are no exception. Not to say he should be blamed in a bad way, just to say his presidency and ultimate resignation resulted in a need to think in shapes. The shapes were a panacea for war and scandal. Subliminally his presence is still felt though. NIXON is the most geometric name of any president we've ever had, so it's no surprise that this style of mural was de rigueur during, and soon after, the Watergate era."#8 See %link[1973,**1973**].
+"Richard Nixon can usually be blamed for most things. Geometric murals of the 1970s are no exception. Not to say he should be blamed in a bad way, just to say his presidency and ultimate resignation resulted in a need to think in shapes. The shapes were a panacea for war and scandal. Subliminally his presence is still felt though. NIXON is the most geometric name of any president we've ever had, so it's no surprise that this style of mural was de rigueur during, and soon after, the Watergate era."#8 See @link[1973,**1973**].
 
 
 
@@ -888,29 +888,29 @@ In his 2010 blog post %link[http://onemorespoke.blogspot.com/2010/06/detroits-ge
 
 
 
-%img Foyel.jpg
+%img Foyel
 
 %caption Foyel, 1999, acrylic on wood
 
 
 
-Rubello's turn toward dimensional paintings opens up the possibility of working with reflected color and movable paintings. It also advances his concern with illusionistic play; often, his dimensional works contain brilliant, saturated colors that are invisible from certain perspectives, revealed only after the viewer has physically moved around them. See %link[blue_cut,**BLUE CUT**], %link[color_reflected,**COLOR, REFLECTED**], and %link[moveables,**MOVABLES**].
+Rubello's turn toward dimensional paintings opens up the possibility of working with reflected color and movable paintings. It also advances his concern with illusionistic play; often, his dimensional works contain brilliant, saturated colors that are invisible from certain perspectives, revealed only after the viewer has physically moved around them. See @link[blue_cut,**BLUE CUT**], @link[color_reflected,**COLOR, REFLECTED**], and @link[moveables,**MOVABLES**].
 
 
 
-%img Intruder.jpg
+%img Intruder
 
 %caption Two views of Intruder, 2010, acrylic on wood
 
 
 
-%img Flag1.jpg
+%img Flag1
 
 %caption Front view of Flag, from the Luminos Series, 2007, acrylic on wood
 
 
 
-%img Flag2.jpg
+%img Flag2
 
 %caption Side view of Flag, from the Luminos Series, 2007, acrylic on wood
 
@@ -970,7 +970,7 @@ Born in Detroit in 1935.  Lives with his wife, the photographer and painter Mary
 
 
 
-%img David_Rubello_1973.jpg
+%img David_Rubello_1973
 
 %caption Rubello in 1973. Photograph by […]
 
@@ -984,7 +984,7 @@ Studied drawing and painting at the school of the Arts and Crafts Society of Det
 
 
 
-%img Perseus_back.jpg
+%img Perseus_back
 
 
 
@@ -992,7 +992,7 @@ Clay modeler for General Motors, 1957-1959, 1961-1963, and 1984-2001.
 
 
 
-%img Studio2.jpg
+%img Studio2
 
 %caption Inside Rubello's studio, October 2014
 
@@ -1002,7 +1002,7 @@ Taught at the University of Michigan (1970-1972, 1986-1989), Genesse Community C
 
 
 
-%img Unknown_Title_Chameleon.jpg 
+%img Unknown_Title_Chameleon 
 
 
 

@@ -42,6 +42,11 @@ class Article
   end
 
   def body
+    "<body class=\"#{color}\">\n#{links}<section class=\"article\">\n#{contents}</div>\n</body>"
+  end
+
+  # Legacy, we no longer actually use the title, supplied in the H2
+  def body_with_title
     "<body class=\"#{color}\">\n#{links}<section class=\"article\">\n<h1>#{title}</h1>\n#{contents}</div>\n</body>"
   end
 

@@ -10,8 +10,8 @@ class Section
 
   def scrubbed_content(content)
     # find links: %link[sea_of_tranquility,Sea of Tranquility]
-    scrubbed = content.strip.gsub(/%link\s*\[[^%]*,[^%]*\s*\]/) do |raw_link|
-      link_attr = raw_link.match(/%link\s*\[([^%]*),([^%]*)\s*\]/)
+    scrubbed = content.strip.gsub(/@link\s*\[[^@]*,[^@]*\s*\]/) do |raw_link|
+      link_attr = raw_link.match(/@link\s*\[([^@]*),([^@]*)\s*\]/)
       if link_attr[1].match /http:\/\//
         link = link_attr[1]
       else
@@ -40,7 +40,7 @@ class Section
   def to_s
     case html
     when "img"
-      "<img#{css_class} src=\"img/#{content}\" alt=\"#{content.match(/(.*)\./)[1]}\">"
+        "<img#{css_class} src=\"img/#{content}.jpg\" alt=\"#{content}\">"
     when "a"
       # link to page
     else

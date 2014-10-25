@@ -23,6 +23,7 @@ contents.each do |line|
       @current_article = Article.new(line.match(CONTENT)[1])
       @index.add_article @current_article
     when "title"
+      @current_article.title = line.match(CONTENT)[1]
     when "h1"
       @current_article.title = line.match(CONTENT)[1]
     when "h2"
