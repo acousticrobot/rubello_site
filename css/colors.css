@@ -1,0 +1,56 @@
+/* Background Colors */
+
+.black {
+  background-color: #000000;
+}
+
+.peach {
+  background-color: #FFB894;
+}
+
+.mauve, a.dk-green:hover {
+  background-color: #740E26;
+}
+
+.lemon, a.mauve:hover {
+  background-color: #FFFB08;
+}
+
+.violet, a.lemon:hover {
+  background-color: #6C5EA0;
+}
+
+.teal, a.violet:hover {
+  background-color: #129473;
+}
+
+.sherbert, a.teal:hover {
+  background-color: #F1670A;
+}
+
+.blood-orange, a.sherbert:hover {
+  background-color: #BF2B0E;
+}
+
+.pink, a.blood-orange:hover {
+  background-color: #E082AD;
+}
+
+.red, a.pink:hover {
+  background-color: #BB0000;
+}
+
+.lt-blue, a.red:hover {
+  background-color: #A6D2EA;
+}
+
+.lt-green, a.lt-blue:hover {
+  background-color: #6EDD15;
+}
+
+.dk-green, a.lt-green:hover {
+  background-color: #008111;
+  h2 {
+    color: white;
+  }
+}

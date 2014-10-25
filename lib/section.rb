@@ -20,12 +20,16 @@ class Section
       "<a href=\"#{link}\">#{link_attr[2]}</a>"
     end
 
+    #find references links
+    scrubbed = scrubbed.strip.gsub(/#(\d+)/,'<a href="references.html"><sup>\1</sup></a>')
+
     # find bold: **See also ....**
     scrubbed = scrubbed.strip.gsub(/\*\*([^\*]*)\*\*/,'<strong>\1</strong>')
 
     # find italic: *The Title of a Painting*
     scrubbed = scrubbed.strip.gsub(/\*([^\*]*)\*/,'<cite>\1</cite>')
 
+    # create blockquoted sections
     scrubbed = scrubbed.strip.gsub(/\^([^\^]*)\^/,'<blockquote>\1</blockquote>')
   end
 

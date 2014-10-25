@@ -18,7 +18,7 @@ class Index
   end
 
   def header
-    "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta name=\"description\" content=\"David Rubello\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1 user-scalable=0\" />\n<title>David Rubello</title>\n<link rel=\"stylesheet\" href=\"css/grid.css\" />\n</head>"
+    "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta name=\"description\" content=\"David Rubello\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1 user-scalable=0\" />\n<title>David Rubello</title>\n<link rel=\"stylesheet\" href=\"css/grid.css\" />\n<link rel=\"stylesheet\" href=\"css/colors.css\" />\n</head>"
   end
 
   def contents

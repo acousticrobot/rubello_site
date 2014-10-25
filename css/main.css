@@ -22,6 +22,10 @@ body { display: block; }
 html { overflow-y: scroll; }
 h1, h2, h3, h4, h5, h6, strong { font-weight: bold; }
 
+sup {
+
+}
+
 a {
   color: black;
   text-decoration: none;
@@ -30,66 +34,6 @@ a {
 a:hover {
   color: #505050;
 }
-
-/* Background Colors */
-
-.mauve {
-  background-color: #8A002E;
-  color: white;
-}
-
-.lemon {
-  background-color: #FFFF00;
-}
-
-.violet {
-  background-color: #CC99FF;
-}
-
-.teal {
-  background-color: #19D1A3;
-}
-
-.sherbert {
-  background-color: #FF7519;
-}
-
-.blood-orange {
-
-  background-color: #FF3300;
-}
-
-.peach {
-  background-color: #FFB894;
-}
-
-.pink {
-  background-color: #FF94DB;
-}
-
-.red {
-  background-color: #FF0000;
-}
-
-.lt-blue {
-  background-color: #BFDFFF;
-}
-
-.lt-green {
-  background-color: #19BA13;
-}
-
-.dk-green {
-  background-color: #008011;
-  h2 {
-    color: white;
-  }
-}
-
-.black {
-  background-color: #000000;
-}
-
 
 /* Primary Styles */
 
@@ -167,6 +111,12 @@ section.article {
   width:80%;
   height: 100%;
   max-width: 800px;
+}
+
+blockquote {
+
+  background-color: #F8F8F8;
+  padding: .5em;
 }
 
 @media screen and (min-width:1125px) {

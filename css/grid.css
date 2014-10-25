@@ -22,65 +22,6 @@ a:link { -webkit-tap-highlight-color: #3b7cbf; }
 .ie7 img { -ms-interpolation-mode: bicubic; }
 h1, h2, h3, h4, h5, h6 { font-weight: bold; }
 
-/* Background Colors */
-
-.mauve {
-	background-color: #8A002E;
-}
-
-.lemon {
-	background-color: #FFFF00;
-}
-
-.violet {
-	background-color: #CC99FF;
-}
-
-.teal {
-	background-color: #19D1A3;
-}
-
-.sherbert {
-	background-color: #FF7519;
-}
-
-.blood-orange {
-
-	background-color: #FF3300;
-}
-
-.peach {
-	background-color: #FFB894;
-}
-
-.pink {
-	background-color: #FF94DB;
-}
-
-.red {
-	background-color: #FF0000;
-}
-
-.lt-blue {
-	background-color: #BFDFFF;
-}
-
-.lt-green {
-	background-color: #19BA13;
-}
-
-.dk-green {
-	background-color: #008011;
-	h2 {
-		color: white;
-	}
-}
-
-.black {
-	background-color: #000000;
-}
-
-
 /* Primary Styles */
 
 
@@ -89,7 +30,7 @@ body {
 	width: 95%;
 	font: 1em "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
 	color: #515047;
-	background-color: #FFF;
+	background-color: #FFB894;
 }
 a, a:link, a:visited, a:active {
 	float: left;
@@ -98,15 +39,19 @@ a, a:link, a:visited, a:active {
 	height: auto;
 	margin-bottom: 30px;
 	text-decoration: none;
+
 }
 
 a h2 {
 	color: #262626;
 	line-height: 0.8;
-	letter-spacing: -0.05em;
+	letter-spacing: -0.02em;
 	font-size: 3em;
-	margin: 10px;
 	line-height: 40px;
+	text-align: center;
+	padding-top: 1.5em;
+	width: 90%;
+	margin: 5%;
 }
 
 img { max-width: 100%; }
@@ -126,7 +71,6 @@ img { max-width: 100%; }
 		-moz-transition: -color .3s linear;
 		transition: background-color .3s linear;
 	}
-	a:hover { background-color: #008011; }
 	a.title { background-color: #f2f1db; }
 	a, a:link, a:visited, a:active {
 		position: relative;

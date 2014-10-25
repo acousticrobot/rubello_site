@@ -6,7 +6,7 @@ class Article
     @slug = slug.strip
     @title = slug
     @content = []
-    @color = %w"red pink peach blood-orange sherbert lemon lt-green dk-green teal lt-blue violet mauve".sample
+    @color = %w"red pink blood-orange sherbert lemon lt-green dk-green teal lt-blue violet mauve".sample
   end
 
   def add_content(section)
@@ -30,7 +30,7 @@ class Article
   end
 
   def header
-    "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta name=\"description\" content=\"David Rubello\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1 user-scalable=0\" />\n<title>#{@title}</title>\n<link rel=\"stylesheet\" href=\"css/main.css\" />\n</head>"
+    "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta name=\"description\" content=\"David Rubello\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1 user-scalable=0\" />\n<title>#{@title}</title>\n<link rel=\"stylesheet\" href=\"css/main.css\" />\n<link rel=\"stylesheet\" href=\"css/colors.css\" />\n</head>"
   end
 
   def contents
