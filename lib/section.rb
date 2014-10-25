@@ -25,6 +25,8 @@ class Section
 
     # find italic: *The Title of a Painting*
     scrubbed = scrubbed.strip.gsub(/\*([^\*]*)\*/,'<cite>\1</cite>')
+
+    scrubbed = scrubbed.strip.gsub(/\^([^\^]*)\^/,'<blockquote>\1</blockquote>')
   end
 
   def css_class
