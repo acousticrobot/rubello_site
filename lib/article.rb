@@ -1,5 +1,5 @@
 class Article
-  attr_accessor :slug, :color
+  attr_accessor :slug, :color, :next_slug
   attr_reader :content
 
   def initialize(slug)
@@ -19,6 +19,10 @@ class Article
 
   def title
     @title
+  end
+
+  def next_slug=(next_slug)
+    @next_slug = next_slug.strip
   end
 
   def save(writer)
@@ -42,15 +46,15 @@ class Article
   end
 
   def body
-    "<body class=\"#{color}\">\n#{links}<section class=\"article\">\n#{contents}</div>\n</body>"
+    "<body class=\"#{color}\">\n#{links}<section class=\"article\">\n#{contents}\n</section>"
   end
 
   # Legacy, we no longer actually use the title, supplied in the H2
   def body_with_title
-    "<body class=\"#{color}\">\n#{links}<section class=\"article\">\n<h1>#{title}</h1>\n#{contents}</div>\n</body>"
+    "<body class=\"#{color}\">\n#{links}<section class=\"article\">\n<h1>#{title}</h1>\n#{contents}</section>\n"
   end
 
   def footer
-    "</html>"
+    "<section class=\"next-link\"><a class=\"next-page\" href=\"#{next_slug}.html\">next</a>\n</body>\n</html>"
   end
 end

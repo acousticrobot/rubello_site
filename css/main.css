@@ -113,6 +113,24 @@ section.article {
   max-width: 800px;
 }
 
+.next-link {
+  clear: both;
+  margin: 20px auto;
+  padding: 20px;
+  width:80%;
+  max-width: 800px;
+  text-align: right;
+  color: white;
+}
+
+.next-link a {
+  color: white;
+}
+
+.next-link a:hover {
+  color: black;
+}
+
 blockquote {
 
   background-color: #F8F8F8;

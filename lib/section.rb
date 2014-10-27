@@ -17,11 +17,11 @@ class Section
       else
         link = link_attr[1] + ".html"
       end
-      "<a href=\"#{link}\">#{link_attr[2]}</a>"
+      "<a href=\"#{link}\">#{link_attr[2]} </a>"
     end
 
     #find references links
-    scrubbed = scrubbed.strip.gsub(/#(\d+)/,'<a href="references.html"><sup>\1</sup></a>')
+    scrubbed = scrubbed.strip.gsub(/#(\d+)/,'<a href="references.html"><sup>\1 </sup></a>')
 
     # find bold: **See also ....**
     scrubbed = scrubbed.strip.gsub(/\*\*([^\*]*)\*\*/,'<strong>\1</strong>')

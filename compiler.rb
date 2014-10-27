@@ -20,6 +20,7 @@ contents.each do |line|
   if line.match(TAG)
     case line.match(TAG)[1]
     when "slug"
+      @current_article.next_slug = line.match(CONTENT)[1] if @current_article
       @current_article = Article.new(line.match(CONTENT)[1])
       @index.add_article @current_article
     when "title"
