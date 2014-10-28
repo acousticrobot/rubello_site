@@ -23,8 +23,9 @@ class Section
     #find references links
     scrubbed = scrubbed.strip.gsub(/#(\d+)/,'<a href="references.html"><sup>\1 </sup></a>')
 
-    # find bold: **See also ....**
-    scrubbed = scrubbed.strip.gsub(/\*\*([^\*]*)\*\*/,'<strong>\1</strong>')
+    # find bold: **See also ....** old regex: /\*\*([^\*]*)\*\*/
+    scrubbed = scrubbed.strip.gsub(/\*\*(.*\*(?!=\*).*)\*\*/,'<strong>\1</strong>')
+
 
     # find italic: *The Title of a Painting*
     scrubbed = scrubbed.strip.gsub(/\*([^\*]*)\*/,'<cite>\1</cite>')
