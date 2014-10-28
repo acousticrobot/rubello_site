@@ -17,7 +17,7 @@ class Section
       else
         link = link_attr[1] + ".html"
       end
-      "<a href=\"#{link}\">#{link_attr[2]} </a>"
+      "<a href=\"#{link}\">#{link_attr[2]} </a>\n"
     end
 
     #find references links

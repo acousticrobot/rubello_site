@@ -46,7 +46,7 @@ class Article
   end
 
   def body
-    "<body class=\"#{color}\">\n#{links}<section class=\"article\">\n#{contents}\n</section>"
+    "<body class=\"#{color}\">\n#{links}<section class=\"article\">\n#{contents}</section>"
   end
 
   # Legacy, we no longer actually use the title, supplied in the H2
@@ -55,6 +55,10 @@ class Article
   end
 
   def footer
-    "<section class=\"next-link\"><a class=\"next-page\" href=\"#{next_slug}.html\">next</a>\n</body>\n</html>"
+    if next_slug
+      "<section class=\"next-link\"><a class=\"next-page\" href=\"#{next_slug}.html\">next</a></section>\n</body>\n</html>"
+    else
+      "</body>\n</html>"
+    end
   end
 end
