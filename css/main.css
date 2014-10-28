@@ -121,6 +121,8 @@ section.article {
   max-width: 800px;
   text-align: right;
   color: white;
+  font-weight: bold;
+  font-size: 2em;
 }
 
 .next-link a {
