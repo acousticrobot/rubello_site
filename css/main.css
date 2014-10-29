@@ -77,7 +77,16 @@ small {
   font-size: 1em;
   color: #8F8E8E;
 }
-img { max-width: 100%; }
+img {
+  max-width: 100%;
+  display: block;
+  margin: 40px auto 0 auto;
+}
+
+.image-caption {
+  display: block;
+  text-align: center;
+}
 
 
 nav a {
