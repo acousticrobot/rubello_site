@@ -49,16 +49,21 @@ class Article
     "<body class=\"#{color}\">\n#{links}<section class=\"article\">\n#{contents}</section>"
   end
 
-  # Legacy, we no longer actually use the title, supplied in the H2
+  # Legacy, we no longer use the title, supplied in the H2
   def body_with_title
     "<body class=\"#{color}\">\n#{links}<section class=\"article\">\n<h1>#{title}</h1>\n#{contents}</section>\n"
   end
 
-  def footer
+  # Legacy, we no longer use the next button
+  def footer_with_next
     if next_slug
       "<section class=\"next-link\"><a class=\"next-page\" href=\"#{next_slug}.html\">next</a></section>\n</body>\n</html>"
     else
       "</body>\n</html>"
     end
+  end
+
+  def footer
+    "</body>\n</html>"
   end
 end
