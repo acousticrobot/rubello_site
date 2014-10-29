@@ -11,7 +11,7 @@ The mayor of Detroit is Roman Gribbs. He serves one term and is preceded by Jero
 %img 1970s
 %caption Downtown Detroit in the 1970s. Photographer Unknown. From the Detroit News, courtesy Virtual Motor City.
 
-In February, a committee called The Option Process Task Force, convened by Michigan governor William Milliken in 1972 to "examine the problems of the Detroit Metropolitan area and to recommend effective solutions to solving them," presents its findings in a @link[http://www.remappingdebate.org/sites/default/files/TOP%20Force%20Report%201973.pdf,report] that concludes the following:
+In February, a committee called The Option Process Task Force, convened by Michigan governor William Milliken in 1972 to "examine the problems of the Detroit Metropolitan area and to recommend effective solutions to solving them," presents its findings in a @link[http://www.remappingdebate.org/sites/default/files/TOP%20Task%20Force%20Report%201973.pdf,report] that concludes the following:
 
 ^The Southeastern Michigan region is confronted with fundamental problems of increasing complexity and severity. The region possesses, among other things, excellent industrial and commercial development features, a large pool of skilled labor, renowned cultural and educational institutions, and vital communities in which to live. Like other urbanized areas, however, it is plagued by a lack of jobs (with concentrated unemployment pockets), poor public transportation facilities, concentrated sub-standard housing and segregated housing patterns, inadequate health care and recreational programs and facilities, fragmented social services and high crime rates, exacerbated by a corrections system which does not rehabilitate. These problems, at one time limited to the core city, are now having a rapidly expanding impact upon residents of adjacent and outlying communities of the region….#11^ 
 
@@ -45,6 +45,17 @@ Rubello's first choice for the location of his 1973 mural, because of the number
 
 See @link[color_cubes,**COLOR CUBES**] and @link[living_with_art,**LIVING WITH ART**].
 
+%slug art_appreciation
+%title ART APPRECIATION
+
+%h2 ART APPRECIATION. 
+To Rubello, a higher pursuit than art criticism. While the latter is a conversation between specialists, the former concerns the non-artist, the non-critic -- who too must live with art.
+
+%img Art_Appreciation
+%caption From the Detroit Free Press, August 14, 1974
+
+See @link[homage,**HOMAGE**], @link[nixon,**RICHARD NIXON**], and @link[rubello,**DAVID RUBELLO**].
+
 %slug art_in_architecture
 %title ART IN ARCHITECTURE
 
@@ -63,17 +74,6 @@ From its introduction:
 
 See @link[living_with_art,**LIVING WITH ART**], @link[public_art,**PUBLIC ART**], @link[nea,**NATIONAL ENDOWMENT FOR THE ARTS**], and @link[urban_renewal,**URBAN RENEWAL**].
 
-%slug art_appreciation
-%title ART APPRECIATION
-
-%h2 ART APPRECIATION. 
-To Rubello, a higher pursuit than art criticism. While the latter is a conversation between specialists, the former concerns the non-artist, the non-critic -- who too must live with art.
-
-%img Art_Appreciation
-%caption From the Detroit Free Press, August 14, 1974
-
-See @link[homage,**HOMAGE**], @link[nixon,**RICHARD NIXON**], and @link[rubello,**DAVID RUBELLO**].
-
 %slug arts_and_crafts
 %title ARTS AND CRAFTS
 
@@ -88,7 +88,7 @@ On weekends in the early 1950s, the teenage Rubello takes the streetcar from his
 %img Self_Portrait
 %caption Self-portrait by David Rubello, 1954 acrylic on canvas. His first painting as a full-time student at Arts & Crafts.
  
-In 1958, the Detroit Society of Arts and Crafts moves into a new building, designed by Minoru Yamasaki, in the city's cultural center. By 1975, its has expanded and become the Center for Creative Studies -- known today as the @link[http://www.collegeforcreativestudies.edu/,College for Creative Studies], a leading institution of art and design and education. Its former Brush Park home, vacant and @link[http://www.collegeforcreativestudies.edu/,in serious disrepair], is demolished in 2006.
+In 1958, the Detroit Society of Arts and Crafts moves into a new building, designed by Minoru Yamasaki, in the city's cultural center. By 1975, its has expanded and become the Center for Creative Studies -- known today as the @link[http://www.collegeforcreativestudies.edu/,College for Creative Studies], a leading institution of art and design and education. Its former Brush Park home, vacant and @link[http://www.forgottendetroit.com/blog/?p=284,in serious disrepair], is demolished in 2006.
 
 See @link[charles_mcgee,**CHARLES MCGEE**] and @link[rubello,**DAVID RUBELLO**].
 
@@ -593,7 +593,7 @@ See @link[art_in_architecture,**ART IN ARCHITECTURE**], @link[color_cubes,**COLO
 
 (10) Phillips, Patricia C. (1992). Temporality and public art. In H.F. Senie and S. Webster (Eds.), *Critical issues in public art* (pp. 295-304). New York: Harper Collins.  
 
-(11) @link[http://www.remappingdebate.org/sites/default/files/TOP%20Force%20Report%201973.pdf,Report of the The Option Process (T.O.P.) Task Force]. February 13, 1973. Accessed via @link[detroit.jalopnik.com/this-1973-report-predicted-detroits-eventual-problems-1427120095,Jalopnik Detroit].
+(11) @link[http://www.remappingdebate.org/sites/default/files/TOP%20Task%20Force%20Report%201973.pdf,Report of the The Option Process (T.O.P.) Task Force]. February 13, 1973. Accessed via @link[http://detroit.jalopnik.com/this-1973-report-predicted-detroits-eventual-problems-1427120095,Jalopnik Detroit].
 
 (12) Redstone, Louis. (1968). *Art in Architecture*. New York: McGraw-Hill. 
 
