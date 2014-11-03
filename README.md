@@ -35,7 +35,7 @@ Put all content into the file contents.txt, place contents for each page in the 
     <link rel="stylesheet" href="css/colors.css" />
     </head>
     <body class="lt-blue">
-    <nav><ul><li><a class="eight-mile" href="http://www.infinitemiledetroit.com/index.html"></a></li><li><a class="grid" href="index.html"></a></li></ul></nav>
+    <nav><ul><li><a class="eight-mile" href="http://www.infinitemiledetroit.com/matrix_for_color_cubes.html"></a></li><li><a class="grid" href="index.html"></a></li></ul></nav>
     <section class="article">
     <h1> a_new_page </h1>
     <p>A paragraph...no synatax indicator needed... will go on until the next carriage return</p>

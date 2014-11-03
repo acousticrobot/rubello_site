@@ -42,7 +42,7 @@ class Article
   end
 
   def links
-    "<nav><ul><li><a class=\"eight-mile\" href=\"http://www.infinitemiledetroit.com/index.html\"></a></li><li><a class=\"grid\" href=\"index.html\"></a></li></ul></nav>\n"
+    "<nav><ul><li><a class=\"eight-mile\" href=\"http://www.infinitemiledetroit.com/matrix_for_color_cubes.html\"></a></li><li><a class=\"grid\" href=\"index.html\"></a></li></ul></nav>\n"
   end
 
   def body
