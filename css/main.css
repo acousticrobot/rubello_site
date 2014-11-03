@@ -83,6 +83,11 @@ img {
   margin: 40px auto 0 auto;
 }
 
+iframe {
+  margin: 40px auto 0 auto;
+  display: block;
+}
+
 .image-caption {
   display: block;
   text-align: center;
