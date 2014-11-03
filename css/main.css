@@ -86,6 +86,7 @@ img {
 iframe {
   margin: 40px auto 0 auto;
   display: block;
+  max-width: 100%;
 }
 
 .image-caption {
